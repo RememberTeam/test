@@ -19,6 +19,8 @@ public class Test {
 		System.out.println("zzzz");
 		
 		System.out.println("六六六六");
+		
+		System.out.println("縑遵");
 
 	}
 
